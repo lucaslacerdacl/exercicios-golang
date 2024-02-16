@@ -9,7 +9,7 @@
 9. Desenvolva uma função que converta uma temperatura de Celsius para Fahrenheit. A função deve receber a temperatura em Celsius como parâmetro e retornar a temperatura convertida.
 10. Crie uma função que valide se uma senha atende aos critérios estabelecidos, como ter no mínimo 8 caracteres, pelo menos uma letra maiúscula, pelo menos uma letra minúscula e pelo menos um caractere especial.
 
-# Documentaçãod de estudo
+# Documentation
   * https://lumochift.org/blog/return-interface
   * https://golangdocs.com/arrays-in-golang
   * https://medium.com/geekculture/how-to-create-enum-in-golang-c0b19dd5439f
